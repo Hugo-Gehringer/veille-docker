@@ -1,4 +1,3 @@
-DockerSlim
 # Projet Docker test de Grype, Dive, Dockle, Trovy et Hadolint
 
 ## Objectif
