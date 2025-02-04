@@ -1,9 +1,5 @@
 # Projet Docker test de Grype, Dive, Dockle, Trovy et Hadolint
 
-## Objectif
-
-Ce projet vise à construire, sécuriser, et optimiser une image Docker à l'aide des outils **Grype**, **Dive**, **Dockle**, **Trivy** et **Hadolint**. L'objectif est de créer une image Docker fiable et performante, de scanner les vulnérabilités de sécurité, et de réduire sa taille en suivant les bonnes pratiques.
-
 ## Prérequis
 
 installr les outils suivants sur votre machine :
